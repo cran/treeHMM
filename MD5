@@ -1,0 +1,16 @@
+d75d3291db21ed05ec86462ae4b0e062 *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+5dd680ecd384f76ff44267d928712899 *R/backward.R
+c4a076eb72d96761ed9a0c8b96963d75 *R/baumWelch.R
+4268eacb4b12700195cc86d633d4d979 *R/bwd_seq_gen.R
+ee9b82ce2f167f56ac2a57d97ffb53f8 *R/forward.R
+58fd2b01eab2e260563ba9ef98263f16 *R/fwd_seq_gen.R
+bf66f311c59af31a83c24e271ce265e8 *R/initHMM.R
+c2f82e72fdb5f95d614bf12fb7c646a4 *man/backward.Rd
+d9b668c5b2561bf88852e7a0e4b13a99 *man/baumWelch.Rd
+2b1b75f79153c2e68529442082b8c6b8 *man/baumWelchRecursion.Rd
+4c863cf907b4426f15d9727c7605bae8 *man/bwd_seq_gen.Rd
+598a14ae25a57aaca9bfbba2a1471ec1 *man/forward.Rd
+4980f636b358849400b4e14285243c8c *man/fwd_seq_gen.Rd
+76a7ecdf9c41ae8d08bc8cf5426592a0 *man/initHMM.Rd
+f98d13e820e2c8872f7b7b6d417a7874 *man/noisy_or.Rd
